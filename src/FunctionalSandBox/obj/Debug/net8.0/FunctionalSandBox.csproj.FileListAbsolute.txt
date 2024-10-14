@@ -1,0 +1,14 @@
+C:\Users\tzoka\source\repos\FuncCsharp\src\FunctionalSandBox\obj\Debug\net8.0\FunctionalSandBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tzoka\source\repos\FuncCsharp\src\FunctionalSandBox\obj\Debug\net8.0\FunctionalSandBox.AssemblyInfoInputs.cache
+C:\Users\tzoka\source\repos\FuncCsharp\src\FunctionalSandBox\obj\Debug\net8.0\FunctionalSandBox.AssemblyInfo.cs
+C:\Users\tzoka\source\repos\FuncCsharp\src\FunctionalSandBox\obj\Debug\net8.0\FunctionalSandBox.csproj.CoreCompileInputs.cache
+C:\Users\tzoka\source\repos\FuncCsharp\src\FunctionalSandBox\bin\Debug\net8.0\FunctionalSandBox.exe
+C:\Users\tzoka\source\repos\FuncCsharp\src\FunctionalSandBox\bin\Debug\net8.0\FunctionalSandBox.deps.json
+C:\Users\tzoka\source\repos\FuncCsharp\src\FunctionalSandBox\bin\Debug\net8.0\FunctionalSandBox.runtimeconfig.json
+C:\Users\tzoka\source\repos\FuncCsharp\src\FunctionalSandBox\bin\Debug\net8.0\FunctionalSandBox.dll
+C:\Users\tzoka\source\repos\FuncCsharp\src\FunctionalSandBox\bin\Debug\net8.0\FunctionalSandBox.pdb
+C:\Users\tzoka\source\repos\FuncCsharp\src\FunctionalSandBox\obj\Debug\net8.0\FunctionalSandBox.dll
+C:\Users\tzoka\source\repos\FuncCsharp\src\FunctionalSandBox\obj\Debug\net8.0\refint\FunctionalSandBox.dll
+C:\Users\tzoka\source\repos\FuncCsharp\src\FunctionalSandBox\obj\Debug\net8.0\FunctionalSandBox.pdb
+C:\Users\tzoka\source\repos\FuncCsharp\src\FunctionalSandBox\obj\Debug\net8.0\FunctionalSandBox.genruntimeconfig.cache
+C:\Users\tzoka\source\repos\FuncCsharp\src\FunctionalSandBox\obj\Debug\net8.0\ref\FunctionalSandBox.dll
